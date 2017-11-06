@@ -1,5 +1,5 @@
 package de.unitrier.st.fst17.list;
-
+// frederikwuelferath
 /**
  * Doppelt verkettete Liste.
  */
@@ -201,3 +201,4 @@ public class List {
     }
 
 }
+
